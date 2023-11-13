@@ -1,0 +1,22 @@
+#inputBar{
+    padding: 20px;
+    background-color: rgb(201, 198, 198);
+    border-bottom: 4px solid red;
+}
+
+html, body{
+    margin: 0;
+}
+
+.task{
+    padding: 16px;
+    border-bottom: 1px solid gray;
+    font-weight: bold;
+    font-size: 32px;
+    
+}
+
+.taskCancellato{
+    text-decoration: line-through;
+    color: red;
+}
